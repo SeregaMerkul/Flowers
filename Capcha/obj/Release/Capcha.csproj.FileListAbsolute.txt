@@ -1,0 +1,7 @@
+C:\Users\student307\source\repos\Capcha\bin\Release\Capcha.dll
+C:\Users\student307\source\repos\Capcha\bin\Release\Capcha.pdb
+C:\Users\student307\source\repos\Capcha\obj\Release\Capcha.csprojAssemblyReference.cache
+C:\Users\student307\source\repos\Capcha\obj\Release\Capcha.csproj.CoreCompileInputs.cache
+C:\Users\student307\source\repos\Capcha\obj\Release\Capcha.dll
+C:\Users\student307\source\repos\Capcha\obj\Release\Capcha.pdb
+C:\Users\student307\source\repos\Capcha\bin\Release\Capcha.xml
